@@ -6,7 +6,7 @@ Instructions down bellow.
 <img src="https://github.com/JQ-Developer/dice-game--pigs/blob/main/sample.png" >
 
 INSTRUCTIONS:
- Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
+ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold":
 
 If the player rolls a 1, they score nothing and it becomes the next player's turn.
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
